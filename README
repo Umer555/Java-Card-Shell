@@ -1,0 +1,6 @@
+
+The project is a Java Card Adminstration Application. By using this project you will do the followig things:
+
+ *The project can be used to send and receive APDUs from a java card
+ *You will be able to install applets on real java cards (Global Platform compliant)
+ *It supports SCP02
