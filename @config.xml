@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- System Version 1.0 -->
+<!-- Developed and written by: Muhammad Umer -->
+<!-- Contact(email): umerm4@gmail.com -->
+<!-- Contact(cell): +9203315017530 -->
+<Shell>
+	<config></config>
+	<card>
+		<cardManager>A000000003000000</cardManager>
+		<keys>
+			<current>
+				<key type="S_ENC">404142434445464748494A4B4C4D4E4F</key>
+				<key type="S_MAC">404142434445464748494A4B4C4D4E4F</key>
+				<key type="S_DEK">404142434445464748494A4B4C4D4E4F</key>
+			</current>
+			<new>
+				<keySet>01</keySet>
+				<key type="S_ENC">404142434445464748494A4B4C4D4E4F</key>
+				<key type="S_MAC">404142434445464748494A4B4C4D4E4F</key>
+				<key type="S_DEK">404142434445464748494A4B4C4D4E4F</key>
+			</new>
+		</keys>
+	</card>
+	<cap>
+		<privileges>02</privileges>		
+		<Parameters>0000</Parameters>
+	</cap>
+</Shell>
